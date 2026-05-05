@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sXpororfUJE=",
+  "success": true,
+  "projectFilePath": "D:\\User\\programs\\M3U8Downloader_v3\\M3U8Downloader\\M3U8Downloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\M\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.26\\microsoft.net.illink.tasks.8.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
