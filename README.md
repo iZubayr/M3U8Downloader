@@ -129,11 +129,6 @@ M3U8Downloader.exe
 
 ---
 
-## 📄 Litsenziya
-
-MIT License — [LICENSE](LICENSE) faylga qarang.
-
----
 
 <div align="center">
 
